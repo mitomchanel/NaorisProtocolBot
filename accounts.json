@@ -1,0 +1,10 @@
+[
+  {
+    "walletAddress": "0xxxx",
+    "deviceHash": ["xxx"]
+  },
+  {
+    "walletAddress": "xxx",
+    "deviceHash": ["xxx", "xxx"]
+  }
+]
